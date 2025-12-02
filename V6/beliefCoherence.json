@@ -441,6 +441,23 @@
   "total": 44,
   "overall_reasoning": "Panendeism scores high for its elegant fusion of deism and pantheism, providing a conscious yet non-interventionist divine model with strong logical and empirical alignment."
 },
+{
+  "abbrev_label": "CLASS_THEISM",
+  "belief_system": "Classical Theism (Aristotelian-Thomistic-Islamic Peripatetic)",
+  "description": "Philosophically rigorous theism that defines God as absolutely simple, immutable, eternal, pure act, and the necessary ground of all being; known primarily through reason and metaphysical demonstration rather than revelation alone; compatible with science and strong rationalism.",
+  "logical_self_consistency": 9,
+  "logical_self_consistency_note": "Highly coherent metaphysical system; avoids most anthropomorphic contradictions by denying composition, change, or passions in God.",
+  "resolution_of_known_paradoxes": 9,
+  "resolution_of_known_paradoxes_note": "Resolves problem of evil via privation theory and free will; handles divine foreknowledge via timelessness or middle knowledge.",
+  "direct_empirical_compatibility": 9,
+  "direct_empirical_compatibility_note": "Makes no claims that contradict established science; many classical theists were scientists (Aquinas, Maimonides, Leibniz, etc.).",
+  "evidence_vs_revelation_authority": 8,
+  "evidence_vs_revelation_authority_note": "Strong emphasis on natural theology and philosophical demonstration; revelation accepted but not the sole or primary route.",
+  "predictive_explanatory_success": 8,
+  "predictive_explanatory_success_note": "Explains contingency of universe and order of nature; does not make testable physical predictions beyond metaphysics.",
+  "total": 43,
+  "overall_reasoning": "One of the highest-coherence theistic systems; used by Aristotle, Al-Farabi, Avicenna, Averroes, Maimonides, Aquinas, Leibniz, and many others."
+},
   {
   "abbrev_label": "LVSAT",
   "belief_system": "LaVeyan Satanism (Church of Satan)",
