@@ -1,6 +1,6 @@
 # NEUR-V6-DATA
 
-V6 Rendition of Neuresthetics Theory (development). This repository serves as a collection of documents and data related to the development of Neuresthetics Theory version 6, focusing on intersections between neuroscience, AI, consciousness, and related philosophical concepts.
+V6 Rendition of Neuresthetics Theory. This repository serves as a collection of documents and data related to the development of Neuresthetics Theory version 6, focusing on intersections between neuroscience, AI, consciousness, and related philosophical concepts.
 
 ## Overview
 
