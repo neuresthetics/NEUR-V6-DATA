@@ -4,7 +4,9 @@ V6 Rendition of Neuresthetics Theory. This repository serves as a collection of 
 
 ## Overview
 
-Neuresthetics Theory explores the aesthetic and neurological aspects of cognition, intelligence, and AI. This V6 rendition is under active development, with key documents providing theoretical insights and methods. The `V6/` directory is reserved for upcoming data files or resources.
+Neuresthetics is the practice of deliberately shaping neural architecture through objective, species-wide principles of brain organization and dynamics. Rather than passive reflection, it uses aggregated neuroscience data (connectomes, plasticity rules, network theory) to guide targeted behaviors that enhance integration, reduce fragmentation, and expand cognitive capacity.
+
+All showcased papers are here at root with some supporting files in V6 which are reposted in papers.
 
 ## Directory Structure
 
