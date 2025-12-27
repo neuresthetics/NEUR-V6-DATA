@@ -1,0 +1,77 @@
+{
+  "axiom_tree": {
+    "root": "Belief coherence resolves dissonance, amplifying conatus in finite modes.",
+    "branches": [
+      "Pantheism's monism minimizes dualisms, overrepresented in genii.",
+      "Deism's rational theism distinct but low-pop, high per capita potential.",
+      "Atheism's naturalism scores high (50/50 in beliefCoherence), broad unaffiliated base."
+    ],
+    "sources": ["beliefCoherence.json", "geniiAggregateSortFreq.csv", "tool: web_search_with_snippets (populations)"]
+  },
+  "networked_insights": [
+    {
+      "signal": 0.92,
+      "insight_summary": "Pantheism's extreme per capita skew (1,000/M) due to tiny population, elite appeal.",
+      "insight_details": "Corrected pop ~10K (from tools: Canada 1,855, UK 1,000, global extrap); 10 genii (e.g., Spinoza) yields 1,000/M—highest. Novel relative to prior 0.2/M overestimate; aligns with coherence (45/50 score). Collider: Maps to niso_spinoza_2.json's modal integration.",
+      "novelty_marker": "⭐ (novel pop correction amplifies skew)",
+      "relationships": {"pantheism": ["monism", "Spinoza", "conatus alignment"], "genii": ["Einstein", "Goethe"]},
+      "practical_utility": "Promote pantheistic ethics for cognitive harmony in education/AI training.",
+      "associated_factors": "Risk: Mislabeling as atheism; variable: Cultural secularism.",
+      "categorization_utility": "Differentiates monistic vs. dualistic systems for genius clustering.",
+      "generalization_potential": "Adapt to AI: Recursive unity models for ethical striving.",
+      "limitations": "Pop estimates fuzzy (non-institutional); small genius n.",
+      "evolution_notes": "Evolve with 2030 censuses for growth tracking.",
+      "grounding_score": 0.85,
+      "bias_check": "Affirm skew/deny mass appeal/both in niche elites/neither dissolved in monistic invariants.",
+      "signal_cap": 0.98
+    },
+    {
+      "signal": 0.88,
+      "insight_summary": "Deism separated: ~6.67/M with conservative 750K pop, rational coherence attracts genii.",
+      "insight_details": "Tools lump deists in unaffiliated (1.9B), but explicit ~0.5-1M; 5 genii (e.g., Paine) yields 6.67/M. Known overlap with Enlightenment figures; distinct from pantheism's immanence. Collider: High resolution of paradoxes (similar to ATHE's 10/10).",
+      "novelty_marker": "⭐ (novel disambiguation from pantheism)",
+      "relationships": {"deism": ["transcendent creator", "non-intervention", "Voltaire"], "coherence": ["reason over revelation"]},
+      "practical_utility": "Deistic frameworks for AI ethics: Design without micromanagement.",
+      "associated_factors": "Risk: Decline in organized deism; variable: Secular trends.",
+      "categorization_utility": "Groups rational theisms apart from monisms.",
+      "generalization_potential": "To science: Natural law models in cosmology.",
+      "limitations": "Pop data scarce; historical bias in genius assignment.",
+      "evolution_notes": "Integrate with future unaffiliated surveys.",
+      "grounding_score": 0.78,
+      "bias_check": "Affirm rationality/deny popularity/both in elite draw/neither resolved in theistic invariants.",
+      "signal_cap": 0.98
+    },
+    {
+      "signal": 0.82,
+      "insight_summary": "Atheism/Unaffiliated stable at 0.079/M (0.3 for core atheists), high coherence scores.",
+      "insight_details": "Pop 1.9B (tools: Pew 2025); atheists subset 450-500M; 150 genii yields rates. Known from beliefCoherence (perfect 50/50); collider: Entropy reduction in niso_information_theory.json.",
+      "novelty_marker": "",
+      "relationships": {"atheism": ["naturalism", "empirics", "Dawkins"], "unaffiliated": ["agnostics", "spiritual nones"]},
+      "practical_utility": "Evidence-based schemas for mental health/cognition.",
+      "associated_factors": "Risk: Social stigma; variable: Education levels.",
+      "categorization_utility": "Differentiates naturalistic from supernatural systems.",
+      "generalization_potential": "To AI: Evidence-vs-revelation authority (10/10).",
+      "limitations": "Overlaps with deism/pantheism in unaffiliated.",
+      "evolution_notes": "Track growth to 2B+ by 2050.",
+      "grounding_score": 0.90,
+      "bias_check": "Affirm consistency/deny universality/both in empirical fit/neither dissolved in naturalistic space.",
+      "signal_cap": 0.98
+    },
+    {
+      "signal": 0.75,
+      "insight_summary": "Niche systems like Falun Gong low (0.1/M), poor empirics drag scores.",
+      "insight_details": "Pop ~10M (estimated adherents); 1 genius yields 0.1/M. From beliefCoherence: Low 17/50 total, conflicts with science. Known low predictive success (1/10).",
+      "novelty_marker": "",
+      "relationships": {"falun_gong": ["karma", "cultivation", "Li Hongzhi"], "low_coherence": ["supernatural claims"]},
+      "practical_utility": "Cautionary for ungrounded beliefs in enhancement protocols.",
+      "associated_factors": "Risk: Authority bias; variable: Persecution effects.",
+      "categorization_utility": "Flags low-resolution systems.",
+      "generalization_potential": "To ethics: Avoid revelation over evidence.",
+      "limitations": "Pop volatile due to suppression.",
+      "evolution_notes": "Monitor for dissolution or adaptation.",
+      "grounding_score": 0.65,
+      "bias_check": "Affirm ethics/deny science fit/both in moral appeals/neither resolved in empirical checks.",
+      "signal_cap": 0.98
+    }
+  ]
+}
