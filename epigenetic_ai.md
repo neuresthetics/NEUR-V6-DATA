@@ -1,3 +1,5 @@
+# Epigenetic-Style Modulations
+
 From first principles upward: At the foundational level, AI systems comprise an invariant core (e.g., fixed model weights or architectural primitives) that encodes baseline capabilities, with epigenetic-style modulations as bounded, input-dependent overlays for adaptive expression—ensuring flexibility without persistent changes. This pattern can indeed be implemented at various stages depending on desired flexibility (e.g., for domain adaptation, efficiency, or safety), but principles like contextuality and reversibility apply universally to prevent unintended emergence. Below, I address the query's specifics, building step by step across common AI workflows.
 
 ### 1. **Addressing Breadth: Flexibility in Implementation**
